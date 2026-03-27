@@ -1,5 +1,5 @@
 # DATE : 12/03/2026
-# EXPT.NO.9-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
+# EXPT.NO.8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
 ## Mathan kailash S 
 ## 212223060156
 # AIM:
@@ -16,7 +16,7 @@ Personal Computer Turbo C Compiler
 14.	Choose the file and verify the go back protocol operation.
 
 # PROGRAM:
-
+~~~
 #include<stdio.h> void main()
 {
 
@@ -50,7 +50,7 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-
+~~~
 OUTPUT:
 
 <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/73c2628c-a0f3-488f-9763-a177a939684b" />
